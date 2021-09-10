@@ -31,7 +31,7 @@ We’ll also cover a couple of the shorthand properties of these as well, so let
 
 ## Setup
 
-To view the output, click [here](https://daniellabrador.github.io/codecademy-pupspa/) to visit the live site.
+To view the output, click [here](https://daniellabrador.github.io/codecademy-fs-pupspa/) to visit the live site.
 
 ## Sources
 
